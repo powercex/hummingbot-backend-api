@@ -9,7 +9,7 @@ dependencies:
   - libcxx
   - pip
   - pip:
-      - git+https://github.com/powercex/hummingbot.git@34340bd7859b1d1e87a92813e94a2d9dfe66a607
+      - git+https://github.com/powercex/hummingbot.git@0fcbdbb6c1b60a52766a9fa0e853e96dda64f7ad
       - numpy==1.26.4
       - git+https://github.com/felixfontein/docker-py
       - python-dotenv
